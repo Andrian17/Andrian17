@@ -1,5 +1,8 @@
 # Hello, Nama Saya Andrian
 ## Saya Tertarik Dengan Web Dev.
+## https://www.linkedin.com/in/andrian-andrian-9723051a8/
+<a href="https://www.linkedin.com/in/andrian-andrian-9723051a8/">Linkedin</a>
+
 
 <p align="left">
 <a href="https://github.com/Andrian17">
