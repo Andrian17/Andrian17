@@ -14,6 +14,6 @@
 <div align="center">
   <i>Follow me around the web:</i><br>
   <a href="https://www.linkedin.com/in/andrian-andrian-9723051a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/mmd.andrian/?hl=id" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/andriancimen/?hl=id" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <div>
   
